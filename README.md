@@ -39,6 +39,8 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 ## Credits
 We used the following APIs for our project:
 1. starter template code from CU Bootcamp
+2. Google searches, like:  https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_regular_expressions?view=powershell-7.4
+3. 
 
 
 ## License
